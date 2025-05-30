@@ -1,0 +1,17 @@
+.image-wrapper {
+      position: relative;
+    }
+
+    .img1 {
+      width: 100%;
+      height: auto;
+      min-height: 120px;
+    }
+
+    .img2 {
+      position: absolute;
+      top: 20%;
+      right: 10%;
+      width: 50%;
+      min-width: 250px;
+    }
